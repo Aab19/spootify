@@ -23,4 +23,5 @@ yarn dev
 Open [http://localhost:5173](http://localhost:5173)
 
 LIVE VERCEL:
-[https://spootify-tan.vercel.app/](https://spootify-tan.vercel.app/)
+<a href="https://spootify-tan.vercel.app/" target="
+_blank" rel="noopener noreferrer">https://spootify-tan.vercel.app/<a/>
